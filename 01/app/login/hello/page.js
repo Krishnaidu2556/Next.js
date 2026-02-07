@@ -1,0 +1,7 @@
+export default function Hellow() {
+  return (
+    <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
+      <p>Hello world my name is </p>
+    </div>
+  );
+}
